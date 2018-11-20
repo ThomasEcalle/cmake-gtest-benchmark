@@ -9,4 +9,4 @@ function(add_bench_helper bench_name source_file)
 endfunction()
 
 
-add_bench_helper(rc4 bench_main.cpp)
+add_bench_helper(my_code bench_main.cpp)

@@ -7,4 +7,4 @@ function(add_test_helper test_name source_file)
     add_test(NAME ${TARGET_NAME} COMMAND ${TARGET_NAME})
 endfunction()
 
-add_test_helper(rc4 test_main.cpp)
+add_test_helper(my_code test_main.cpp)
