@@ -2,6 +2,7 @@
 #define MY_CODE_H
 
 #include <string>
+#include <sstream>
 #include <fstream>
 
 namespace my_namespace {
